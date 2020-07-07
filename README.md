@@ -5,9 +5,8 @@ XStream is live streaming SDK for Android.
 ### Installation
 
 Minimum SDK version: 18
-Target SDK version: 25
 
-Install the dependencies and devDependencies and start the server.
+Target SDK version: 25
 
 On Project Root Build Gradle
 ```gradle
